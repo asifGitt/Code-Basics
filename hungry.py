@@ -1,12 +1,12 @@
 hungry = input("Are you hungry? ")
 
-if (hungry == "y") or (hungry == "yes"):
+if (hungry == "y") or (hungry == "YES"):
     print("Eat Pizza !!!")
     print("Eat Burger !!!")
     print("Eat Fries !!!")
 
     thirsty = input("Are you thirsty? ")
-    if (thirsty == "y") or (thirsty == "yes"):
+    if (thirsty == "y") or (thirsty == "YES"):
         print("Drink Water !!!")
         print("Drink Juice !!!")
         
